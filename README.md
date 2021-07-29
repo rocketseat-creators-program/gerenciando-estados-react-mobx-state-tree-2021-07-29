@@ -20,6 +20,6 @@ Ele suporta um conjunto completo de recursos para um moderno sistema de gerencia
 | :--------------------------------------------------------------------------------------------------------: |
 |                             [Rafael Perozin](https://github.com/rafaelperozin)                             |
 
-Siga:
+## Siga:
 - Youtube: [Rafael Perozin](https://www.youtube.com/c/rafaelperozin)
 - Linkedin: [Rafael Perozin](htpps://linkedin.com/in/rafaelperozin)
