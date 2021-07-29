@@ -22,4 +22,4 @@ Ele suporta um conjunto completo de recursos para um moderno sistema de gerencia
 
 ## Siga:
 - Youtube: [Rafael Perozin](https://www.youtube.com/c/rafaelperozin)
-- Linkedin: [Rafael Perozin](htpps://linkedin.com/in/rafaelperozin)
+- Linkedin: [Rafael Perozin](https://linkedin.com/in/rafaelperozin)
